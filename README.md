@@ -36,8 +36,7 @@ Netflix\_Subscription\_Forecasting/
 ├── netflix\_subscription\_forcasting.ipynb  # Main notebook with full analysis
 ├── dataset.csv                            # Subscription dataset (monthly/quarterly)
 ├── README.md                              # Project documentation
-Dataset (Source: Kaggle)
-Dataset Source: Diamond Price Dataset from Kaggle Credit: Kaggle openly provides this dataset for analysis and educational purposes.
+* Dataset (Source: Kaggle)
 
 ## 📊 Results & Insights
 
